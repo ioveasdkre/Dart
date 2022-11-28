@@ -1,3 +1,10 @@
+Dart 文章學習資源
+https://tw-hkt.blogspot.com/2019/11/flutter-30-day-1-flutter.html
+
+Dart YouTube學習資源
+https://www.youtube.com/watch?v=MPVNYajzWkA&list=PL274L1n86T83ps4pzbc6cFSpW38jJSdEb&ab_channel=duCafeCat
+
+
 1.Single-line_multi-line_comments           單行、多行註解
 2.Variables_and_Constants                   變數與常數
 3.Numerical_and_Logical_Data_Types          數字與邏輯資料型態
